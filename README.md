@@ -1,2 +1,3 @@
 # js_playground
-battle js
+small wins over js!
+Trying to understand js :D
